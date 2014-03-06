@@ -1,0 +1,10 @@
+cona@cona-proliant-1-ctrl:~/eclipse$ sudo java -jar ~/Controller/floodlight/target/floodlight.jar
+
+OR 
+
+Run floodlight controller on eclipse( need to run ./setup-eclipse.sh inside of floodlight controller)
+
+
+
+
+
